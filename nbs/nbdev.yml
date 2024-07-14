@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mlx90640"
+  site-url: "https://eandreas.github.io/mlx90640"
+  description: "raspberry pi project with thermal camera model LMX90640"
+  repo-branch: main
+  repo-url: "https://github.com/eandreas/mlx90640"
